@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FynnT076
-- 👀 I’m interested in JS/JSON/LUA
-- 🌱 I’m currently learning LUA
+- 👀 I’m interested in JS/JSON/LUA/Node.JS
+- 🌱 I’m currently learning Node.JS
 - 📫 How to reach me: Discord
-UltimateFireRaven#9999
+Fynn#0076
 
 
