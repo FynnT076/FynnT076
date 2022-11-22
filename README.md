@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FynnT076
 - 👀 I’m interested in you
 - 🌱 I’m currently coding Python, Javascript, HTML, CSS, LUA, and some other side stuff
-- 💞️ I’m looking to collaborate on ur mom
+- 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me.. not
 
 <!---
